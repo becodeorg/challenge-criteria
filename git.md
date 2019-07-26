@@ -1,6 +1,7 @@
 # Criteria - Git & GitHub
 
-- [ ] I commited at least twice per day.
+- [ ] I committed at least twice per day.
+- [ ] I pushed to the remote at least once per day.
 - [ ] I used only relevant commit messages. (The messages explain the commits.)
 - [ ] I made a branch that only I developed on. (In group projects this means that everyone created their own branch.)
 - [ ] I published the result of the challenge on GitHub using GitHub pages.
