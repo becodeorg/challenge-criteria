@@ -11,7 +11,8 @@
 - [ ] I used meaningful (read: semantically correct) HTML5 tags.
 - [ ] Separation of concerns: I did not add any styling nor scripting in the HTML file(s).
 - [ ] I tested my website with a markup validator ([example][1]).
-- [ ] Images have a useful and descriptive `alt` attribute value. 
+- [ ] ID attributes are not used more than once in the same document. 
+- [ ] DOM elements that are linked to Javascript manipulation are prefixed with `js-*`. 
 - [ ] I tested that my website shows all the content properly with an adblocker enabled. 
 - [ ] I added the relevant OpenGraph metadata. 
 
